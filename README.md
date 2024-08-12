@@ -1,4 +1,4 @@
-# Lav Thaiba - Online Portfolio
+# DEVENDRA KANDEL 
 
 This is the repository for Lav Thaiba's online portfolio. The portfolio showcases Lav Thaiba's skills, experience, and contact information.
 
@@ -25,9 +25,10 @@ This portfolio website includes sections for:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/lavthaiba/portfolio.git
+git clone https://github.com/devam2mynewportfolio.git
 
-```
+
+
 
 ## Usage
 Navigate through different sections using the navigation bar.
